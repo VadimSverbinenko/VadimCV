@@ -30,6 +30,7 @@ ul {
   margin-top: 5px;
   text-decoration: none;
 }
+
 .dark {
   padding: 25px;
   background: #35424a;
@@ -50,10 +51,10 @@ ul {
   grid-template-columns: 2fr 1fr;
 }
 
-.projectImes:hover {
+/* .projectImes:hover {
   width: 500;
   height: auto;
-}
+} */
 
 header {
   background: #35424a;
@@ -230,10 +231,10 @@ footer {
   .text {
     display: none;
   }
-  .projectImes:hover {
+  /* .projectImes:hover {
     width: 300px;
     height: auto;
-  }
+  } */
 }
 #reactImg {
   width: 50px;
